@@ -24,4 +24,8 @@ header-includes:
 
 # Introduction
 
+<<<<<<< HEAD
 This is just an intro
+=======
+I dont know what it is for, but i try to do it.
+>>>>>>> exerciseVG_newer
